@@ -23,7 +23,7 @@ require (
 	github.com/0xsoniclabs/tosca v0.0.0-20251023131117-f542dea83f5b
 	github.com/Fantom-foundation/lachesis-base v0.0.0-20240116072301-a75735c4ef00
 	github.com/cespare/cp v1.1.1
-	github.com/consensys/gnark-crypto v0.18.0
+	github.com/consensys/gnark-crypto v0.18.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.8.0
 	github.com/docker/docker v27.3.1+incompatible
@@ -43,7 +43,7 @@ require (
 	github.com/tyler-smith/go-bip39 v1.1.0
 	go.uber.org/mock v0.4.0
 	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
-	golang.org/x/sys v0.36.0
+	golang.org/x/sys v0.45.0
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
@@ -132,10 +132,10 @@ require (
 	github.com/urfave/cli/v2 v2.27.5 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	golang.org/x/crypto v0.36.0 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sync v0.12.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
